@@ -8,18 +8,13 @@ If the array has only unique integers, we will return `false`.
 
 ## Questions
 
-Q: Can the array be empty?
-
+Q: Can the array be empty?<br>
 A: No, the array is guaranteed to have at least one element.
 
-
 Q: What is the range of nums in the array (can they be negative)?
-
 A: Values are whole numbers between $-10^{9}$ and $10^{9}$.
 
-
 Q: Is the array sorted?
-
 A: No guarantees that this is a sorted array.
 
 ## Examples
