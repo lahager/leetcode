@@ -1,4 +1,5 @@
 .vscode
 
-tests/neetcode150/arrays_and_hashing/__pycache__/
 neetcode150/arrays_and_hashing/__pycache__/
+tests/neetcode150/arrays_and_hashing/contains_duplicate/__pycache__/
+tests/neetcode150/arrays_and_hashing/__pycache__/
