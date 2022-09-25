@@ -11,10 +11,10 @@ If the array has only unique integers, we will return `false`.
 Q: Can the array be empty?<br>
 A: No, the array is guaranteed to have at least one element.
 
-Q: What is the range of nums in the array (can they be negative)?
+Q: What is the range of nums in the array (can they be negative)?<br>
 A: Values are whole numbers between $-10^{9}$ and $10^{9}$.
 
-Q: Is the array sorted?
+Q: Is the array sorted?<br>
 A: No guarantees that this is a sorted array.
 
 ## Examples
