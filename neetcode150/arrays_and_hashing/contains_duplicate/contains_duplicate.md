@@ -56,7 +56,7 @@ If we finish the loop, then we have never returned `true` and we can return `fal
 
 # Implement
 
-See contains_duplicate.py
+See [contains_duplicate.py](contains_duplicate.py)
 
 # Review
 
