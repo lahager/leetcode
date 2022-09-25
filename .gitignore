@@ -1,5 +1,4 @@
-neetcode150\arrays_and_hashing\__pycache__\
+.vscode
 
-tests\neetcode150\arrays_and_hashing\__pycache__
-
-settings.json
+tests/neetcode150/arrays_and_hashing/__pycache__/
+neetcode150/arrays_and_hashing/__pycache__/
