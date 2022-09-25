@@ -60,7 +60,7 @@ See [contains_duplicate.py](contains_duplicate.py)
 
 # Review
 
-Test cases added to contains_duplicate.py
+Test cases added to [test_contains_duplicate.py](../../../tests/neetcode150/arrays_and_hashing/contains_duplicate/test_contains_duplicate.py)
 
 1. When nums = [1], we will create the set. We will iterate through the loop once. 1 will not be in seen, so we will add it. Then, drop out of the loop and return False. Expected result.
 
