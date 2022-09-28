@@ -1,4 +1,3 @@
-#import pytest
 from neetcode150.arrays_and_hashing.contains_duplicate.contains_duplicate import contains_duplicate
 
 def test_contains_duplicate_single_element():
